@@ -40,6 +40,7 @@ Este tutorial presenta un flujo de trabajo básico para el análisis bioinformá
 El pipeline utilizado en este tutorial incluye las siguientes etapas principales:
 
 1. **Control de calidad (QC)**
+
 Evaluación y filtrado de las lecturas crudas de secuenciación utilizando:
 - **FastQC:** evaluación de calidad de lecturas
 
