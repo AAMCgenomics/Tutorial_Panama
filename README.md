@@ -83,6 +83,7 @@ bash installing.sh
 ```bash
 Tutorial_Panama
 │
+├── Caso_Estudio/           # Caso de estudio para genómica comparativa
 ├── Figures/                # Figuras
 ├── notebooks/              # Jupyter notebooks utilizados para cada uno de los análisis
 ├── Dataset/                # Dataset a utilizar para análisis filogenéticos
