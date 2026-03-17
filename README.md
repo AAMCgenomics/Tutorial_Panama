@@ -10,9 +10,11 @@ El material está diseñado para apoyar el proceso de capacitación en genómica
 
 En este repositorio encontrarás:
 
-- Jupyter Notebooks utilizados en cada uno de los análisis bioinformáticos.
+- Jupyter Notebooks utilizados en cada etapa del análisis bioinformático.
 
-- Datos de ejemplo utilizados para los análisis filogenéticos.
+- Jupyter Notebooks destinados al postprocesamiento de los datos.
+
+- Conjuntos de datos de ejemplo para realizar análisis filogenéticos.
 
 - Figuras.
 
@@ -83,10 +85,11 @@ bash installing.sh
 ```bash
 Tutorial_Panama
 │
-├── Caso_Estudio/           # Caso de estudio para genómica comparativa
-├── Figures/                # Figuras
-├── notebooks/              # Jupyter notebooks utilizados para cada uno de los análisis
-├── Dataset/                # Dataset a utilizar para análisis filogenéticos
-├── installing.sh           # Archivo de instalación
-└── README.md               # Este archivo
+├── Caso_Estudio/              # Caso de estudio enfocado en genómica comparativa
+├── Figures/                   # Figuras
+├── Notebooks_pipeline/        # Notebooks utilizados en cada etapa del pipeline bioinformático
+├── Notebooks_procesamiento/   # Notebooks para el postprocesamiento de datos
+├── Dataset/                   # Datos para análisis filogenéticos
+├── installing.sh              # Script de instalación
+└── README.md                  # Archivo principal de documentación
 
